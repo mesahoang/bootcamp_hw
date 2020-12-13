@@ -13,7 +13,7 @@ A computer with internet and a slice of pizza wouldn't hurt.
 ## Screenshot
 The following image shows the web application's appearance and functionality:
 
-[screenshot](bootcamp_hw\assets\01-html-css-git-homework-demo.png)
+[Webpage](bootcamp_hw\assets\images\01-html-css-git-homework-demo.png)
 
 ## Credits
 Special thank you to Chris, Nathan, Blake for the knowledge
