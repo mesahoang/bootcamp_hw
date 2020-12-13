@@ -5,7 +5,7 @@ This is a homework assignment where I refacted existing code to increase not onl
 
 URL of deployed site: https://mesahoang.github.io/bootcamp_hw/
 
-URL of GitHub repository: mesahoang/bootcamp_hw
+URL of GitHub repository: https://github.com/mesahoang/bootcamp_hw.git
 
 ## Requirements
 A computer with internet and a slice of pizza wouldn't hurt.
@@ -13,7 +13,7 @@ A computer with internet and a slice of pizza wouldn't hurt.
 ## Screenshot
 The following image shows the web application's appearance and functionality:
 
-bootcamp_hw\assets\01-html-css-git-homework-demo.png
+[screenshot](bootcamp_hw\assets\01-html-css-git-homework-demo.png)
 
 ## Credits
 Special thank you to Chris, Nathan, Blake for the knowledge
